@@ -3,7 +3,7 @@
 
 # Model Selection on Telecom's Dataset
 
-![output_87_1.png](attachment:output_87_1.png)
+![output_87_1.png](/md/output_87_1.png)
 
 **Author**: <a href="https://sites.google.com/skelouse.com/home/">Sam Stoltenberg</a>
 
@@ -34,7 +34,7 @@
 
 ## Results:
 
-![output_73_1.png](attachment:output_73_1.png)
+![output_73_1.png](/md/output_73_1.png)
 <div class="alert alert-info">
     <ul><b>From the model:</b>
 <li>The best model yet, and spoiler alert: the best model overall</li>
@@ -45,7 +45,7 @@
 </div>
 
 
-![output_100_1.png](attachment:output_100_1.png)
+![output_100_1.png](/md/output_100_1.png)
 <div class="alert alert-warning">
     <ul><b>From the plot:</b>
 <li>The more minutes someone uses the more likely they are to leave their provider</li>
